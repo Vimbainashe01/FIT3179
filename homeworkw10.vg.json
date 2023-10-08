@@ -1,0 +1,60 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "",
+  "description": "line chart with labels and interactive highlight on hover.",
+  "data": {
+    "url": "https://raw.githubusercontent.com/Vimbainashe01/FIT3179/main/WEEK%2010%20HOMEWORK/data/NUMBER%20OF%20CANCER%20CASES%20IN%20THE%20WORLD%201990-2019%20.csv"
+  },
+  "width": 400,
+  "height": 400,
+  
+  "encoding": {
+    "x": {"field": "Year", "type": "temporal", "timeUnit": "year"},
+    "y": {"field": "Total", "type": "quantitative", "title": "Total number of cancer cases"},
+    "color": {
+      "condition": {
+        "param": "hover",
+        "field":"Entity",
+        "type":"nominal"
+      },
+      "value": "grey"
+    },
+    "opacity": {
+      "condition": {
+        "param": "hover",
+        "value": 2
+      },
+      "value": 0.2
+    },
+  "tooltip":[ {"field": "Entity", "type": "nominal"},
+                {"field": "Year", "type": "temporal", "timeUnit": "year"},
+                {"field": "Total", "type": "quantitative"}
+            ]
+    
+  },
+
+   "layer": [{
+    "description": "transparent layer to make it easier to trigger selection",
+    "params": [{
+      "name": "hover",
+      "value": [{"Entity": "South-East Asia Region (WHO)"}],
+      "select": {
+        "type": "point",
+        "fields": ["Entity"],
+        "on": "mouseover"
+      }
+    }],
+    "mark": {"type": "line", "strokeWidth": 8, "stroke": "transparent"}
+  }, {
+     "mark": {"type": "line"}
+  }, {
+    "encoding": {
+      "x": {"field": "Year", "type": "temporal"},
+      "y": {"field": "Total", "type": "quantitative", "title": "Total number of cancer cases"}
+    },
+    "layer": []
+
+  }]
+
+  
+}
