@@ -1,0 +1,256 @@
+State, Cost Name, Amount
+Alabama, Grocery, 96.4
+Alabama, Health, 86.9
+Alabama, Housing, 70.4
+Alabama, Transportation, 92
+Alabama, Utility, 103.6
+Alaska, Grocery, 127.4
+Alaska, Health, 149.8
+Alaska, Housing, 118.1
+Alaska, Transportation, 121.9
+Alaska, Utility, 148.1
+Arizona, Grocery, 101.8
+Arizona, Health, 93.5
+Arizona, Housing, 125.3
+Arizona, Transportation, 99.2
+Arizona, Utility, 94.3
+Arkansas, Grocery, 95.4
+Arkansas, Health, 87.2
+Arkansas, Housing, 76.3
+Arkansas, Transportation, 92.2
+Arkansas, Utility, 91.8
+California, Grocery, 112.3
+California, Health, 106.4
+California, Housing, 186.5
+California, Transportation, 124.1
+California, Utility, 124.8
+Colorado, Grocery, 100.6
+Colorado, Health, 102
+Colorado, Housing, 116.1
+Colorado, Transportation, 107.4
+Colorado, Utility, 90.9
+Connecticut, Grocery, 99.8
+Connecticut, Health, 109.7
+Connecticut, Housing, 122.7
+Connecticut, Transportation, 102.6
+Connecticut, Utility, 122.3
+Delaware, Grocery, 103
+Delaware, Health, 104.3
+Delaware, Housing, 99.7
+Delaware, Transportation, 109.5
+Delaware, Utility, 97.8
+District of Columbia, Grocery, 106.9
+District of Columbia, Health, 104.7
+District of Columbia, Housing, 241.8
+District of Columbia, Transportation, 107.9
+District of Columbia, Utility, 110.2
+Florida, Grocery, 100.1
+Florida, Health, 96.3
+Florida, Housing, 110.5
+Florida, Transportation, 99.8
+Florida, Utility, 96.7
+Georgia, Grocery, 98.9
+Georgia, Health, 101.4
+Georgia, Housing, 78.5
+Georgia, Transportation, 94.5
+Georgia, Utility, 84.4
+Hawaii, Grocery, 125.6
+Hawaii, Health, 118.4
+Hawaii, Housing, 309.7
+Hawaii, Transportation, 140.3
+Hawaii, Utility, 141.1
+Idaho, Grocery, 103.7
+Idaho, Health, 101.2
+Idaho, Housing, 113.8
+Idaho, Transportation, 109.7
+Idaho, Utility, 84.6
+Illinois, Grocery, 97.5
+Illinois, Health, 95.4
+Illinois, Housing, 78.3
+Illinois, Transportation, 102.4
+Illinois, Utility, 90.9
+Indiana, Grocery, 98
+Indiana, Health, 98.9
+Indiana, Housing, 77
+Indiana, Transportation, 95.7
+Indiana, Utility, 105.4
+Iowa, Grocery, 96.8
+Iowa, Health, 99.7
+Iowa, Housing, 72.4
+Iowa, Transportation, 100.6
+Iowa, Utility, 94.5
+Kansas, Grocery, 96.8
+Kansas, Health, 97.1
+Kansas, Housing, 69.4
+Kansas, Transportation, 88.3
+Kansas, Utility, 107.5
+Kentucky, Grocery, 101.2
+Kentucky, Health, 81.8
+Kentucky, Housing, 72.5
+Kentucky, Transportation, 97.7
+Kentucky, Utility, 102.9
+Louisiana, Grocery, 95.1
+Louisiana, Health, 97.9
+Louisiana, Housing, 84.7
+Louisiana, Transportation, 97.2
+Louisiana, Utility, 85.3
+Maine, Grocery, 101.2
+Maine, Health, 96.2
+Maine, Housing, 118.9
+Maine, Transportation, 112.8
+Maine, Utility, 108
+Maryland, Grocery, 108.5
+Maryland, Health, 96.2
+Maryland, Housing, 152.2
+Maryland, Transportation, 100.2
+Maryland, Utility, 109.2
+Massachusetts, Grocery, 105
+Massachusetts, Health, 112.6
+Massachusetts, Housing, 219.5
+Massachusetts, Transportation, 127.5
+Massachusetts, Utility, 126.1
+Michigan, Grocery, 97.4
+Michigan, Health, 94
+Michigan, Housing, 80.9
+Michigan, Transportation, 98.6
+Michigan, Utility, 99.6
+Minnesota, Grocery, 97.2
+Minnesota, Health, 111.5
+Minnesota, Housing, 82.3
+Minnesota, Transportation, 99
+Minnesota, Utility, 91.5
+Mississippi, Grocery, 97.1
+Mississippi, Health, 97.6
+Mississippi, Housing, 68.6
+Mississippi, Transportation, 88.6
+Mississippi, Utility, 86.1
+Missouri, Grocery, 94.8
+Missouri, Health, 89.9
+Missouri, Housing, 77.2
+Missouri, Transportation, 90.3
+Missouri, Utility, 97.7
+Montana, Grocery, 103
+Montana, Health, 95.7
+Montana, Housing, 111.4
+Montana, Transportation, 99.4
+Montana, Utility, 91.6
+Nebraska, Grocery, 95.2
+Nebraska, Health, 97.1
+Nebraska, Housing, 78.4
+Nebraska, Transportation, 101.8
+Nebraska, Utility, 85.7
+Nevada, Grocery, 102.1
+Nevada, Health, 94.9
+Nevada, Housing, 110.7
+Nevada, Transportation, 117.2
+Nevada, Utility, 96.6
+New Hampshire, Grocery, 102.3
+New Hampshire, Health, 120.6
+New Hampshire, Housing, 109.8
+New Hampshire, Transportation, 113.6
+New Hampshire, Utility, 130.2
+New Jersey, Grocery, 103.9
+New Jersey, Health, 96.1
+New Jersey, Housing, 136.8
+New Jersey, Transportation, 106.1
+New Jersey, Utility, 107.2
+New Mexico, Grocery, 96.7
+New Mexico, Health, 99.6
+New Mexico, Housing, 87.5
+New Mexico, Transportation, 93.5
+New Mexico, Utility, 93.2
+New York, Grocery, 103
+New York, Health, 104.5
+New York, Housing, 173.3
+New York, Transportation, 106.7
+New York, Utility, 102.5
+North Carolina, Grocery, 99
+North Carolina, Health, 109.5
+North Carolina, Housing, 92.1
+North Carolina, Transportation, 93.5
+North Carolina, Utility, 94.5
+North Dakota, Grocery, 94.6
+North Dakota, Health, 111.6
+North Dakota, Housing, 84.3
+North Dakota, Transportation, 101.4
+North Dakota, Utility, 101.8
+Ohio, Grocery, 100.9
+Ohio, Health, 96.5
+Ohio, Housing, 80.1
+Ohio, Transportation, 97.7
+Ohio, Utility, 97.2
+Oklahoma, Grocery, 93.8
+Oklahoma, Health, 91.8
+Oklahoma, Housing, 68
+Oklahoma, Transportation, 92.3
+Oklahoma, Utility, 98.2
+Oregon, Grocery, 107.6
+Oregon, Health, 101.4
+Oregon, Housing, 139.9
+Oregon, Transportation, 113.6
+Oregon, Utility, 94
+Pennsylvania, Grocery, 100.9
+Pennsylvania, Health, 96.7
+Pennsylvania, Housing, 89.9
+Pennsylvania, Transportation, 108.2
+Pennsylvania, Utility, 105.9
+Rhode Island, Grocery, 100.5
+Rhode Island, Health, 107.4
+Rhode Island, Housing, 114.6
+Rhode Island, Transportation, 98.9
+Rhode Island, Utility, 109.7
+South Carolina, Grocery, 100.1
+South Carolina, Health, 96.7
+South Carolina, Housing, 89.4
+South Carolina, Transportation, 91.6
+South Carolina, Utility, 105.3
+South Dakota, Grocery, 98
+South Dakota, Health, 97
+South Dakota, Housing, 93.9
+South Dakota, Transportation, 93
+South Dakota, Utility, 87.9
+Tennessee, Grocery, 97.8
+Tennessee, Health, 88.1
+Tennessee, Housing, 82.9
+Tennessee, Transportation, 90
+Tennessee, Utility, 93.2
+Texas, Grocery, 94.8
+Texas, Health, 94.1
+Texas, Housing, 84.2
+Texas, Transportation, 92.6
+Texas, Utility, 105.7
+Utah, Grocery, 98.3
+Utah, Health, 90.3
+Utah, Housing, 106.5
+Utah, Transportation, 100.9
+Utah, Utility, 93.5
+Vermont, Grocery, 103.1
+Vermont, Health, 106.2
+Vermont, Housing, 131.4
+Vermont, Transportation, 115.6
+Vermont, Utility, 120.8
+Virginia, Grocery, 100.6
+Virginia, Health, 102.6
+Virginia, Housing, 107.7
+Virginia, Transportation, 96.5
+Virginia, Utility, 103.6
+Washington, Grocery, 109.7
+Washington, Health, 119.8
+Washington, Housing, 129.4
+Washington, Transportation, 117.1
+Washington, Utility, 92.2
+West Virginia, Grocery, 97.7
+West Virginia, Health, 97
+West Virginia, Housing, 70.9
+West Virginia, Transportation, 97.8
+West Virginia, Utility, 94.5
+Wisconsin, Grocery, 97.9
+Wisconsin, Health, 113.7
+Wisconsin, Housing, 84.4
+Wisconsin, Transportation, 98.6
+Wisconsin, Utility, 102.8
+Wyoming, Grocery, 102
+Wyoming, Health, 98.6
+Wyoming, Housing, 80.7
+Wyoming, Transportation, 95.6
+Wyoming, Utility, 85.7
